@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrLuzSec10010 ( Abhishek Arun Kapade) 
 - 👀 I’m interested in Cyber Security && Bug hunting && And i am also a CTF Player
-- 🌱 I’m currently preparingfor  OSCP 
+- 🌱 I’m currently preparing for OSCP && CISCO
 - 💞️ I’m looking to collaborate with somone
 - 📫 How to reach me https://www.instagram.com/mr_luzsec10010/
 - 📫 how to reah me www.linkedin.com/in/abhishek-kapade-235475239
